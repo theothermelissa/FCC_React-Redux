@@ -1,5 +1,4 @@
 class DisplayMessages extends React.Component {
-  // change code below this line
   constructor(props) {
     super(props);
     this.state = {
@@ -7,7 +6,6 @@ class DisplayMessages extends React.Component {
       messages: [],
     }
   }
-  // change code above this line
   render() {
     return <div />
   }
